@@ -14,16 +14,6 @@ Excel datasets with HR metrics
 Power BI Dashboard for interactive visualization
 
 Presentation and project documents
-(See Project Files section below for details.)
-
-Project Strucutre:
-
-/
-├── Copy of Human_Resources_Sample-no-PV.xlsx        # Raw HR dataset
-├── hr project.xlsx                                  # Cleaned dataset
-├── HR data- Dashboard.pbix                          # Power BI dashboard file
-├── Final project 2'.pptx                            # Project presentation
-└── Project 2 questions[1].docx                      # Project requirements & questions
 
 🛠️ Tools & Technologies
 Tool	Purpose
