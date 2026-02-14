@@ -9,36 +9,39 @@ This repository contains real HR datasets and Power BI reports designed to explo
 
 Key components include:
 
-Excel datasets with HR metrics
+- Excel datasets with HR metrics
 
-Power BI Dashboard for interactive visualization
+- Power BI Dashboard for interactive visualization
 
-Presentation and project documents
+- Presentation and project documents
 
 🛠️ Tools & Technologies
-Tool	Purpose
-Microsoft Excel	Data cleansing, summarization, basic stats
-Power BI	Data modeling, visualization, interactive dashboards
-DAX	Calculation of key measures inside Power BI
+
+1- Microsoft Excel:	Data cleansing, summarization, basic stats.
+
+2- Power BI	Data modeling, visualization, interactive dashboards.
+
+3- DAX	Calculation of key measures inside Power BI.
+
 📌 How to Use This Project
 
-Open the HR dataset in Excel
+1- Open the HR dataset in Excel
 
-Review and explore key variables
+2- Review and explore key variables
 
-Perform statistical summaries (e.g., central tendency, dispersion)
+3- Perform statistical summaries (e.g., central tendency, dispersion)
 
-Import the cleaned dataset into Power BI Desktop
+4- Import the cleaned dataset into Power BI Desktop
 
-Build your data model
+5- Build your data model
 
-Create relationships, calculated columns, and measures
+6- Create relationships, calculated columns, and measures
 
-Develop dashboards
+7- Develop dashboards
 
-Build visuals that highlight workforce insights
+8- Build visuals that highlight workforce insights
 
-Add slicers, filters, and KPI cards
+9- Add slicers, filters, and KPI cards
 
 Present insights
 
